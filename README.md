@@ -30,3 +30,14 @@ Quizzes: When you think you’ve got a good grasp on a topic within a course, yo
 Workbooks: Want even more practice? When you've finished the section, you can review everything you've learned by working through the bonus workbook. The workbooks include tons of extra practice problems, so they're a great way to solidify what you just learned in that section.
 
 
+## content
+The “01 Formula sheet” folder includes the formula sheet PDF(s) for the course.
+The “02 Notes” folder includes one PDF of the compiled notes for the full course, as well as the individual notes PDF for each lecture, broken up by Section.
+The “03 Quizzes” folder includes one PDF of the compiled quizzes for the full course, as well as the individual quiz PDF for each lecture, broken up by Section.
+The “04 Workbook” folder includes one PDF of the compiled workbook for the full course, one PDF of the compiled workbook solutions for the full course, as well as the individual workbook files for each Section.
+The “05 Final exam” folder includes the exams and solutions for two practice exams, as well as the official final exam and its solutions.
+
+All these same files are attached throughout the course as well, so there’s no need to download them from both places.
+
+## My Verdict
+
